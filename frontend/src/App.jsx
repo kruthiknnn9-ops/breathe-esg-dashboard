@@ -20,7 +20,7 @@ function App() {
     try {
 
       const response = await axios.post(
-        'http://127.0.0.1:8000/api/upload-csv/',
+        'https://breathe-esg-dashboard-mdwg.onrender.com/api/upload-csv/',
         formData,
         {
           headers: {
