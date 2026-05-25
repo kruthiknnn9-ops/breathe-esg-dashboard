@@ -1,0 +1,5 @@
+scope,category,activity_date,activity_value,unit
+Scope 2,Electricity,2025-01-10,500,kWh
+Scope 1,Fuel,2025-01-12,800,Liters
+Scope 3,Business Travel,2025-01-15,1200,km
+Scope 2,Electricity,2025-01-20,15000,kWh
